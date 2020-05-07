@@ -1,6 +1,7 @@
 # Job  Aggregator
 ### This is a Aggregator of various job postings available in different companies.
 
+
 This is just a simple web app where a person can search for jobs based on his **location** or **salary requirements** or 
 **category of work**.
 
